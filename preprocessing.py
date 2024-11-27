@@ -1,5 +1,5 @@
 def LabelEncoder(data):
     pass
 
-def OneHotEncoder(data):
+def MeanTargetEncoder(data):
     pass

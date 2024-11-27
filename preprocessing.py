@@ -1,0 +1,2 @@
+def LabelEncoder(data):
+    pass

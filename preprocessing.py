@@ -1,5 +1,5 @@
 def LabelEncoder(data):
-    pass
+    return 'in progress'
 
 def OneHotEncoder(data):
-    pass
+    return 'in progress'
